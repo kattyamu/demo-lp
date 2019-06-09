@@ -1,6 +1,8 @@
 # option files
 #---------------------------
-/.vscode/
+*/.vscode/
+*/.gitignore
+*/node_modules/
 
 # OS dependent files
 #---------------------------
